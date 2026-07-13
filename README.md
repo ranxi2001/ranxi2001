@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/onefly-banner-ucas.png" alt="Onefly at UCAS - AI Agents, Cloud Native, Quant & Risk, Web3" width="100%" />
+<img src="./assets/onefly-banner-final.png" alt="Onefly at UCAS - AI Agents, Agent Infrastructure, Cloud Native, Quant & Risk, Web3" width="100%" />
 
 [Blog](https://onefly.top) · [Google Scholar](https://scholar.google.com.hk/citations?user=4QSzqZoAAAAJ) · [LinkedIn](https://www.linkedin.com/in/ranxi/)
 
