@@ -24,15 +24,6 @@ I'm Xi Ran, an M.S. student in Computer Technology at UCAS. I build reliable sys
 - **云原生开源**：围绕 Go / Kubernetes 参与 AgentCube、Karmada 等上游项目。
 - **量化与风险工程**：面向 Web3 市场构建 Agent 驱动的研究流水线、异常检测与自动化风控。
 
-## Selected Work
-
-| Work | Evidence & impact |
-| --- | --- |
-| [**zero2Agent**](https://github.com/ranxi2001/zero2Agent) | 面向开发者的 Agent 工程教程，覆盖 Agent 基础、OpenClaw、Claude Code、LangGraph、主流 SDK、框架调研与面试实战；已完成 **8 个模块、80 篇文章**，获得 **160+ Stars**。 |
-| [**OfferPilot**](https://github.com/ranxi2001/OfferPilot) | 不依赖 LangChain / LangGraph，手写 Agent Loop，将工具、上下文、记忆、权限、子 Agent、SSE 与 ASR/TTS 串成完整面试诊断产品；当前有 **55 个自动化测试**。 |
-| **Quant & market surveillance** | 构建 20+ 个 Python / SQL 分析工具与 Agent 排查流水线，将全市场 OI 异常筛查压缩至 **4 分钟**，支撑后续聚类、交易行为验证与取证；同时开发多 Agent 新闻交易与量化研究系统。 |
-| **Research** | 发表 2 篇区块链论文：[IEEE GBC 2025](https://doi.org/10.1109/GBC60041.2025.11134480)（第二作者）与 [Systems 2022](https://doi.org/10.3390/systems10030078)（JCR Q2）。 |
-
 ## Open-source Contributions
 
 已有 **12 个 PR** 合并至 AgentCube 与 Karmada 生态（AgentCube 8 / Karmada 4）。代表性工作包括 [AgentCube #403](https://github.com/volcano-sh/agentcube/pull/403) 的废弃组件清理、[#420](https://github.com/volcano-sh/agentcube/pull/420) 的多架构镜像构建，以及 [Karmada #7666](https://github.com/karmada-io/karmada/pull/7666) 的 Kubernetes / etcd 安装默认值更新。
