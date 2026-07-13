@@ -1,8 +1,6 @@
 <div align="center">
 
-# Onefly
-
-<p><strong>AI Agent Engineering · Cloud Native Open Source · Quant & Risk · Web3</strong></p>
+<img src="./assets/onefly-banner.png" alt="Onefly - AI Agents, Cloud Native, Quant & Risk, Web3" width="100%" />
 
 [Blog](https://onefly.top) · [Google Scholar](https://scholar.google.com.hk/citations?user=4QSzqZoAAAAJ) · [LinkedIn](https://www.linkedin.com/in/ranxi/)
 
@@ -23,16 +21,6 @@ I'm Xi Ran, an M.S. student in Computer Technology at UCAS. I build reliable sys
 - **Agent 工程与基础设施**：Agent loop、工具编排、上下文与记忆、沙箱生命周期，以及生产级可靠性。
 - **云原生开源**：围绕 Go / Kubernetes 参与 AgentCube、Karmada 等上游项目。
 - **量化与风险工程**：面向 Web3 市场构建 Agent 驱动的研究流水线、异常检测与自动化风控。
-
-## Open-source Contributions
-
-已有 **12 个 PR** 合并至 AgentCube 与 Karmada 生态（AgentCube 8 / Karmada 4）。代表性工作包括 [AgentCube #403](https://github.com/volcano-sh/agentcube/pull/403) 的废弃组件清理、[#420](https://github.com/volcano-sh/agentcube/pull/420) 的多架构镜像构建，以及 [Karmada #7666](https://github.com/karmada-io/karmada/pull/7666) 的 Kubernetes / etcd 安装默认值更新。
-
-目前仍在推进 Agent sandbox / warm pool 与证书生命周期相关工作；这些尚在评审中的 PR 不计入上述已合并数量。
-
-Earlier work: [Policy Information Extraction](https://github.com/ranxi2001/information-extraction-policy-news), a PaddleNLP UIE project that achieved 97% F1 in project experiments and received a National Second Prize in the Challenge Cup; and [zero2Leetcode](https://github.com/ranxi2001/zero2Leetcode), a browser-based learning platform with 98 LeetCode Hot 100 problems, an online judge, an ACM-style IDE, and a context-aware AI coach.
-
-> 部分量化与市场监察工作运行在非公开的生产环境；这里仅展示可公开、已脱敏的结果。
 
 ## Working Stack
 
