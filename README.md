@@ -4,11 +4,11 @@
 
 <p><strong>AI Agent Engineering · Cloud Native Open Source · Quant & Risk · Web3</strong></p>
 
-[Personal Site](https://ranxi.top) · [Blog](https://onefly.top) · [Google Scholar](https://scholar.google.com.hk/citations?user=4QSzqZoAAAAJ) · [LinkedIn](https://www.linkedin.com/in/ranxi/)
+[Blog](https://onefly.top) · [Google Scholar](https://scholar.google.com.hk/citations?user=4QSzqZoAAAAJ) · [LinkedIn](https://www.linkedin.com/in/ranxi/)
 
 </div>
 
-我是冉熙，中国科学院大学计算机技术硕士生。我在 **AI Agent、量化交易与 Web3** 的交叉处构建可运行、可度量、可持续迭代的系统，也持续参与 Go / Kubernetes 开源基础设施。
+我是中国科学院大学计算机技术硕士生。我在 **AI Agent、量化交易与 Web3** 的交叉处构建可运行、可度量、可持续迭代的系统，也持续参与 Go / Kubernetes 开源基础设施。
 
 I'm Xi Ran, an M.S. student in Computer Technology at UCAS. I build reliable systems at the intersection of **AI agents, quantitative trading, and Web3**, and contribute to cloud-native open source.
 
@@ -16,7 +16,7 @@ I'm Xi Ran, an M.S. student in Computer Technology at UCAS. I build reliable sys
 
 > **Onefly = Focus on one meaningful problem, then make it fly.**
 
-我把 `Onefly` 理解为 `one + fly`：`One` 代表保持独立判断，也代表一次专注一个值得解决的问题；`Fly` 代表把想法真正做成能运行、能验证、能帮助人的系统。中文里，它也延续了我「孤飞」的署名：独立思考，持续前行，也通过开源让独行不再孤单。
+我把 `Onefly` 理解为 `one + fly`：`One` 代表保持独立判断，也代表一次专注一个值得解决的问题；`Fly` 代表把想法真正做成能运行、能验证、能帮助人的系统。中文里，它也延续了我「孤飞」的署名：独立思考，持续前行，也通过开源让独行不再孤单。同时，中文有一个成语叫「一飞冲天」，我将它翻译为 **OneflyTosky**。
 
 ## What I'm Working On
 
@@ -30,7 +30,7 @@ I'm Xi Ran, an M.S. student in Computer Technology at UCAS. I build reliable sys
 | --- | --- |
 | [**zero2Agent**](https://github.com/ranxi2001/zero2Agent) | 面向开发者的 Agent 工程教程，覆盖 Agent 基础、OpenClaw、Claude Code、LangGraph、主流 SDK、框架调研与面试实战；已完成 **8 个模块、80 篇文章**，获得 **160+ Stars**。 |
 | [**OfferPilot**](https://github.com/ranxi2001/OfferPilot) | 不依赖 LangChain / LangGraph，手写 Agent Loop，将工具、上下文、记忆、权限、子 Agent、SSE 与 ASR/TTS 串成完整面试诊断产品；当前有 **55 个自动化测试**。 |
-| [**Quant & market surveillance**](https://ranxi.top/#experience) | 构建 20+ 个 Python / SQL 分析工具与 Agent 排查流水线，将全市场 OI 异常筛查压缩至 **4 分钟**，支撑后续聚类、交易行为验证与取证；同时开发多 Agent 新闻交易与量化研究系统。 |
+| **Quant & market surveillance** | 构建 20+ 个 Python / SQL 分析工具与 Agent 排查流水线，将全市场 OI 异常筛查压缩至 **4 分钟**，支撑后续聚类、交易行为验证与取证；同时开发多 Agent 新闻交易与量化研究系统。 |
 | **Research** | 发表 2 篇区块链论文：[IEEE GBC 2025](https://doi.org/10.1109/GBC60041.2025.11134480)（第二作者）与 [Systems 2022](https://doi.org/10.3390/systems10030078)（JCR Q2）。 |
 
 ## Open-source Contributions
@@ -56,4 +56,4 @@ Earlier work: [Policy Information Extraction](https://github.com/ranxi2001/infor
 
 我乐于讨论 **Agent infrastructure、quant research、market surveillance 与 Web3 infrastructure**。
 
-[ranxi@88.com](mailto:ranxi@88.com) · [ranxi.top](https://ranxi.top) · [onefly.top](https://onefly.top)
+[ranxi.dev@gmail.com](mailto:ranxi.dev@gmail.com) · [onefly.top](https://onefly.top)
