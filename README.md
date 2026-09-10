@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/ranxi2001">
-    <img src="https://stats.zzhgo.com/api?username=ranxi2001&count_private=true&show_icons=true&hide_title=true&text_color=6F90B5" alt="Onefly's GitHub stats" height="165" />
+    <img src="./assets/github-stats.svg" alt="Onefly's GitHub stats" height="165" />
   </a>
   <img src="https://ghfind.com/api/card/mini/ranxi2001?theme=light" alt="Onefly's ghfind profile card" height="165" />
 </p>
