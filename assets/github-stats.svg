@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Onefly's GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 873, Total Commits  (last year) : 1573, Total PRs: 210, Total Issues: 21, Contributed to (last year): 20</desc>
+        <desc id="descId">Total Stars Earned: 873, Total Commits  (last year) : 1574, Total PRs: 210, Total Issues: 21, Contributed to (last year): 20</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 22.39173227649705;
+        stroke-dashoffset: 22.39025217530614;
       }
     }
   

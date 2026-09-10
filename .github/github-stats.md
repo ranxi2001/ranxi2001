@@ -12,9 +12,14 @@ at 00:23 UTC (08:23 Asia/Shanghai; scheduled runs can be delayed), or manually v
 - Generator: https://github.com/stats-organization/github-readme-stats-action
 - Core: https://github.com/stats-organization/github-stats-extended
 
-The workflow pins the action commit and core package version 2.1.3. It generates
+The workflow pins setup actions and core package version 2.1.3. It generates
 the SVG directly using GitHub's API, without an external card-hosting service.
 Data-fetch failures stop the job before committing, preserving the last good SVG.
+
+The local generator uses the core directly and patches its `stargazers { totalCount }`
+query to the equivalent public `stargazerCount` scalar. The upstream connection
+query is rejected by GitHub's default Actions token across repositories. The
+patch is checked before use and must be reviewed when upgrading the core.
 
 ## Permissions and statistics
 
