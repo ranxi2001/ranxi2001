@@ -8,8 +8,8 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">Onefly's GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 946, Total Commits  (last year) : 1599, Total PRs: 109, Total Issues: 22, Contributed to (last year): 20</desc>
+        <title id="titleId">Onefly's GitHub Stats, Rank: A+</title>
+        <desc id="descId">Total Stars Earned: 996, Total Commits  (last year) : 1599, Total PRs: 113, Total Issues: 22, Contributed to (last year): 20</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 32.02303346979396;
+        stroke-dashoffset: 31.01651561464311;
       }
     }
   
@@ -129,7 +129,7 @@
         <g class="rank-text">
           
         <text x="-5" y="3" alignment-baseline="central" dominant-baseline="central" text-anchor="middle" data-testid="level-rank-icon">
-          A
+          A+
         </text>
       
         </g>
@@ -148,7 +148,7 @@
         x="224.01"
         y="12.5"
         data-testid="stars"
-      >946</text>
+      >996</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
@@ -178,7 +178,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >109</text>
+      >113</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
